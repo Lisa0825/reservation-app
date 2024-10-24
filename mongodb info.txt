@@ -1,0 +1,2 @@
+mongodb+srv://test:testtest@cluster0.k4k6p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+npm install mongodb
